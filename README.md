@@ -2,7 +2,7 @@
 
 💫 About Me: 
 <br>👀 I’m interested in iOS Development
-<br>🌱 I'm currently learning SWIFT
+<br>🌱 SWIFT mainly
 <br>📫 Feel free to contact me:
 - nataliya.laz@gmail.com
 - telegram: https://t.me/nataliyalaz
